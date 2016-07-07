@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/luisadrian/AndroidStudioProjects/PrimerProyectoAndroid/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="e70f608219ed6b974644c333249ab2bb7b71de98">
+        <dex dex="/Users/luisadrian/AndroidStudioProjects/PrimerProyectoAndroid/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-24.0.0_b233f544bae84d01f6b6c76472d7c288c185af91.jar" />
+    </item>
+    <item
+        jar="/Users/luisadrian/AndroidStudioProjects/PrimerProyectoAndroid/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="0874286cc2fd88d54fdf130e9d5372730da6de97">
+        <dex dex="/Users/luisadrian/AndroidStudioProjects/PrimerProyectoAndroid/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-24.0.0_d4cb762fe003d9f849605a9e8ba4ca8a7eb53088.jar" />
+    </item>
+    <item
+        jar="/Users/luisadrian/AndroidStudioProjects/PrimerProyectoAndroid/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/libs/internal_impl-24.0.0.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="/Users/luisadrian/AndroidStudioProjects/PrimerProyectoAndroid/app/build/intermediates/pre-dexed/debug/internal_impl-24.0.0_acb1d92dbb0275b7f7d1b713791fbf595739c220.jar" />
+    </item>
+    <item
+        jar="/Users/luisadrian/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/24.0.0/2943c74db6d4346ab8c6531adac91fa05c137c40/support-annotations-24.0.0.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="/Users/luisadrian/AndroidStudioProjects/PrimerProyectoAndroid/app/build/intermediates/pre-dexed/debug/support-annotations-24.0.0_2b012080c3f2c2e9e0eefab7d3bb300880514419.jar" />
+    </item>
+    <item
+        jar="/Users/luisadrian/AndroidStudioProjects/PrimerProyectoAndroid/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="/Users/luisadrian/AndroidStudioProjects/PrimerProyectoAndroid/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.0.0_ff76325c6e0422757273ab2916b1ac77208d0ca7.jar" />
+    </item>
+    <item
+        jar="/Users/luisadrian/AndroidStudioProjects/PrimerProyectoAndroid/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="3bd97cfefd783e9de1dd1c30574a6adb44b4409b">
+        <dex dex="/Users/luisadrian/AndroidStudioProjects/PrimerProyectoAndroid/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-24.0.0_94f2728004fa7d0b0ae96c68e75bd50605b9b2b5.jar" />
+    </item>
+
+</items>
